@@ -1,0 +1,570 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ascoleguinhas.000webhostapp.com" resolutions="1x" timestamp="1516824627759">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="450330517" ref="anúncie:foz-do-iguaçu:trans:casal:homens:caro:toledo:cascavel:index"/>
+    <file name="an_ncie.css" crc="121992263" ref="anúncie"/>
+    <file name="foz-do-igua_u.css" crc="4141786990" ref="foz-do-iguaçu"/>
+    <file name="trans.css" crc="48874534" ref="trans"/>
+    <file name="casal.css" crc="415971069" ref="casal"/>
+    <file name="homens.css" crc="276432421" ref="homens"/>
+    <file name="caro.css" crc="3851376695" ref="caro"/>
+    <file name="toledo.css" crc="4009431746" ref="toledo"/>
+    <file name="cascavel.css" crc="319467844" ref="cascavel"/>
+    <file name="index.css" crc="130678905" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="museconfig.js" crc="278381782" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:caro:phone>caro:phone>mulher:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>homens"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>caro:phone>mulher"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro:phone>caro:phone>mulher"/>
+    <file name="coisa do site7.jpg" crc="58364628" seo="true" ref="phone>index:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>caro:phone>mulher">
+      <caption webpage="homens" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="carol" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="casal" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="coisa do site4.png" crc="155902056" ref="phone>index">
+      <caption webpage="index" alt=" Menu"/>
+    </file>
+    <file name="download.jpg" crc="4271511887" ref="index:phone>index">
+      <caption webpage="index" alt="- 3980"/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coisa do site-crop-u171.png" crc="4016306652" seo="true" ref="index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro">
+      <caption webpage="homens" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="casal" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="coisa do site.png" crc="4262784634" seo="true" ref="index:homens:trans:casal:cascavel:toledo:foz-do-iguaçu:anúncie:caro">
+      <caption webpage="homens" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="casal" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="mulher" alt=""/>
+    </file>
+    <file name="4banner-u5296-fr.png" crc="4168743722" ref="index"/>
+    <file name="u5298-4.png" crc="312638600" ref="index"/>
+    <file name="logo trasprente.png" crc="264798179" ref="phone>index">
+      <caption webpage="homens" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="casal" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="coisa do site 99.png" crc="3761343338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto teste-u5338-fr.png" crc="11973669" ref="index:caro"/>
+    <file name="coisa do site3-u5341-fr.png" crc="4013521596" ref="index"/>
+    <file name="coisa do site3-u5288.png" crc="3810501977" ref="index"/>
+    <file name="coisa do site3-u5288-r.png" crc="4079626345" ref="index"/>
+    <file name="4banner-u5289-fr.png" crc="4035512048" ref="index:caro"/>
+    <file name="u5291-4.png" crc="284581170" ref="index"/>
+    <file name="coisa do site3-u5290.png" crc="3810501977" ref="index"/>
+    <file name="coisa do site3-u5290-r.png" crc="4079626345" ref="index"/>
+    <file name="coisa do site3-u1353.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1353-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1354.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1354-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1355.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1355-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1356.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1356-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1358.png" crc="3921047728" ref="homens"/>
+    <file name="coisa do site3-u1358-r.png" crc="146315265" ref="homens"/>
+    <file name="4banner-u1359-fr.png" crc="286101231" ref="homens:trans:casal:cascavel:toledo:foz-do-iguaçu"/>
+    <file name="u1361-4.png" crc="284581170" ref="homens"/>
+    <file name="coisa do site3-u1360.png" crc="66165401" ref="homens"/>
+    <file name="coisa do site3-u1360-r.png" crc="3815203524" ref="homens"/>
+    <file name="coisa do site3-u1362.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1362-r.png" crc="212903553" ref="homens"/>
+    <file name="logo trasprente-u1363-fr.png" crc="4245907413" ref="homens:trans:casal:cascavel:toledo:foz-do-iguaçu"/>
+    <file name="u1364-4.png" crc="4119421674" ref="homens"/>
+    <file name="coisa do site3-u1365.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1365-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1366.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1366-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1367.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1367-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1368.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1368-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u1369.png" crc="4144988342" ref="homens"/>
+    <file name="coisa do site3-u1369-r.png" crc="212903553" ref="homens"/>
+    <file name="coisa do site3-u5503.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5503-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5504.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5504-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5505.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5505-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5506.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5506-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5508.png" crc="3921047728" ref="trans"/>
+    <file name="coisa do site3-u5508-r.png" crc="146315265" ref="trans"/>
+    <file name="u5511-4.png" crc="284581170" ref="trans"/>
+    <file name="coisa do site3-u5510.png" crc="66165401" ref="trans"/>
+    <file name="coisa do site3-u5510-r.png" crc="3815203524" ref="trans"/>
+    <file name="coisa do site3-u5512.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5512-r.png" crc="212903553" ref="trans"/>
+    <file name="u5514-4.png" crc="4004649085" ref="trans"/>
+    <file name="coisa do site3-u5515.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5515-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5516.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5516-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5517.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5517-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5518.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5518-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5519.png" crc="4144988342" ref="trans"/>
+    <file name="coisa do site3-u5519-r.png" crc="212903553" ref="trans"/>
+    <file name="coisa do site3-u5587.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5587-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5588.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5588-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5589.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5589-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5590.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5590-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5592.png" crc="3921047728" ref="casal"/>
+    <file name="coisa do site3-u5592-r.png" crc="146315265" ref="casal"/>
+    <file name="u5595-4.png" crc="284581170" ref="casal"/>
+    <file name="coisa do site3-u5594.png" crc="66165401" ref="casal"/>
+    <file name="coisa do site3-u5594-r.png" crc="3815203524" ref="casal"/>
+    <file name="coisa do site3-u5596.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5596-r.png" crc="212903553" ref="casal"/>
+    <file name="u5598-4.png" crc="385830789" ref="casal"/>
+    <file name="coisa do site3-u5599.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5599-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5600.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5600-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5601.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5601-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5602.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5602-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5603.png" crc="4144988342" ref="casal"/>
+    <file name="coisa do site3-u5603-r.png" crc="212903553" ref="casal"/>
+    <file name="coisa do site3-u5671.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5671-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5672.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5672-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5673.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5673-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5674.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5674-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5676.png" crc="3921047728" ref="cascavel"/>
+    <file name="coisa do site3-u5676-r.png" crc="146315265" ref="cascavel"/>
+    <file name="u5679-4.png" crc="284581170" ref="cascavel"/>
+    <file name="coisa do site3-u5678.png" crc="66165401" ref="cascavel"/>
+    <file name="coisa do site3-u5678-r.png" crc="3815203524" ref="cascavel"/>
+    <file name="coisa do site3-u5680.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5680-r.png" crc="212903553" ref="cascavel"/>
+    <file name="u5682-4.png" crc="161202597" ref="cascavel"/>
+    <file name="coisa do site3-u5683.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5683-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5684.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5684-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5685.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5685-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5686.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5686-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5687.png" crc="4144988342" ref="cascavel"/>
+    <file name="coisa do site3-u5687-r.png" crc="212903553" ref="cascavel"/>
+    <file name="coisa do site3-u5755.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5755-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5756.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5756-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5757.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5757-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5758.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5758-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5760.png" crc="3921047728" ref="toledo"/>
+    <file name="coisa do site3-u5760-r.png" crc="146315265" ref="toledo"/>
+    <file name="u5763-4.png" crc="284581170" ref="toledo"/>
+    <file name="coisa do site3-u5762.png" crc="66165401" ref="toledo"/>
+    <file name="coisa do site3-u5762-r.png" crc="3815203524" ref="toledo"/>
+    <file name="coisa do site3-u5764.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5764-r.png" crc="212903553" ref="toledo"/>
+    <file name="u5766-4.png" crc="363977680" ref="toledo"/>
+    <file name="coisa do site3-u5767.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5767-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5768.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5768-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5769.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5769-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5770.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5770-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5771.png" crc="4144988342" ref="toledo"/>
+    <file name="coisa do site3-u5771-r.png" crc="212903553" ref="toledo"/>
+    <file name="coisa do site3-u5839.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5839-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5840.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5840-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5841.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5841-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5842.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5842-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5844.png" crc="3921047728" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5844-r.png" crc="146315265" ref="foz-do-iguaçu"/>
+    <file name="u5847-4.png" crc="284581170" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5846.png" crc="66165401" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5846-r.png" crc="3815203524" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5848.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5848-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="u5850-4.png" crc="301730996" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5851.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5851-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5852.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5852-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5853.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5853-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5854.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5854-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5855.png" crc="4144988342" ref="foz-do-iguaçu"/>
+    <file name="coisa do site3-u5855-r.png" crc="212903553" ref="foz-do-iguaçu"/>
+    <file name="coisa do site (2).png" crc="4063558171" ref="caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="foto teste-u2286-fr.png" crc="481340578" ref="caro"/>
+    <file name="foto teste339x493.png" crc="4001958322" seo="true" ref="caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="foto teste339x494.png" crc="4001958322" seo="true" ref="caro">
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="u2367-4.png" crc="423337026" ref="caro"/>
+    <file name="coisa do site3-u2364.png" crc="3866730346" ref="caro"/>
+    <file name="coisa do site3-u2364-r.png" crc="3992015888" ref="caro"/>
+    <file name="coisa do site3-u2365.png" crc="3866730346" ref="caro"/>
+    <file name="coisa do site3-u2365-r.png" crc="343742998" ref="caro"/>
+    <file name="foto teste.png" crc="209560872" ref="caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="3.jpg" crc="249459936" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coisa do site3-u8707.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8707-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8710.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8710-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8730.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8730-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8731.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8731-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8742.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8742-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8748.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8748-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8749.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8749-r.png" crc="329369103" ref="phone>index"/>
+    <file name="coisa do site3-u8752.png" crc="3758544277" ref="phone>index"/>
+    <file name="coisa do site3-u8752-r.png" crc="329369103" ref="phone>index"/>
+    <file name="1.jpg" crc="3903642975" ref="phone>index:phone>mulher:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>homens">
+      <caption webpage="casal" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="homens" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3949027391" seo="true" ref="phone>index:phone>caro:phone>homens:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>mulher">
+      <caption webpage="homens" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="casal" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="mulher" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_001_682x1024-u8704-fr.jpg" crc="4058423268" ref="phone>index"/>
+    <file name="coisa do site3.png" crc="4088253553" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_008_682x1024.jpg" crc="410471039" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_001_682x1024-u9314-fr.jpg" crc="4243877895" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_003_1024x682-u9375-fr.jpg" crc="3934099710" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_011_682x1024-u9386-fr.jpg" crc="3855911698" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_011_682x1024.jpg" crc="390315851" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_003_1024x682.jpg" crc="73918680" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_003_1024x682380x254.jpg" crc="3992683565" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_011_682x1024218x327.jpg" crc="244415815" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_001_682x1024.jpg" crc="25866230" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_001_682x1024218x326.jpg" crc="4115956433" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_009_1024x682-u9455-fr.jpg" crc="144965510" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_017_682x1024-u9456-fr.jpg" crc="377864429" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_058_1024x682.jpg" crc="400281143" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_009_1024x682.jpg" crc="4130686459" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_009_1024x682382x254.jpg" crc="4192208310" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_017_682x1024.jpg" crc="3765929986" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_017_682x1024222x334.jpg" crc="4098420241" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_060_1024x682.jpg" crc="3823450085" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_061_1024x682.jpg" crc="347710858" seo="true" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_083_1024x682.jpg" crc="4114159868" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="dannikaliforniats102510-p04_083_1024x682-u9668-fr.jpg" crc="4084926762" ref="phone>caro"/>
+    <file name="dannikaliforniats102510-p04_083_1024x682-u9672-fr.jpg" crc="3982582679" ref="phone>caro"/>
+    <file name="pxmoda-lingerie-set.jpg" crc="427829041" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gil___2217___hft5___9000_by_c_edward-d8sxh58.jpg" crc="4170627554" ref="phone>index:phone>mulher:phone>cascavel:phone>toledo:phone>foz-do-iguaçu">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="9e9141f0-6ec2-41da-a8ea-7878e070a79f.jpg" crc="34732409" ref="phone>index:phone>caro:phone>mulher:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>homens">
+      <caption webpage="casal" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="homens" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="188282e1-76cb-4b30-a166-b846fb80e5f9.jpg" crc="36603829" ref="phone>index:phone>caro:phone>mulher:phone>trans:phone>casal:phone>cascavel:phone>toledo:phone>foz-do-iguaçu:phone>anúncie:phone>homens">
+      <caption webpage="casal" alt=""/>
+      <caption webpage="trans" alt=""/>
+      <caption webpage="anúncie" alt=""/>
+      <caption webpage="caro" alt=""/>
+      <caption webpage="mulher" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="homens" alt=""/>
+      <caption webpage="toledo" alt=""/>
+      <caption webpage="foz-do-iguaçu" alt=""/>
+      <caption webpage="cascavel" alt=""/>
+    </file>
+    <file name="coisa do site3-u9867.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9867-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="coisa do site3-u9868.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9868-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="coisa do site3-u9871.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9871-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="coisa do site3-u9873.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9873-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="coisa do site3-u9874.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9874-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="coisa do site3-u9877.png" crc="3758544277" ref="phone>mulher"/>
+    <file name="coisa do site3-u9877-r.png" crc="329369103" ref="phone>mulher"/>
+    <file name="logo trasprente823x664.png" crc="535624722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4166344604" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-u11131-fr.jpg" crc="432016307" ref="phone>index"/>
+    <file name="5-u8782.png" crc="4056481242" ref="phone>index"/>
+    <file name="5-u8782-r.png" crc="5829463" ref="phone>index"/>
+    <file name="dannikaliforniats102510-p04_006_1024x682.jpg" crc="456167901" ref="phone>caro">
+      <caption webpage="caro" alt=""/>
+    </file>
+    <file name="exie600.jpg" crc="4187496104" ref="phone>trans">
+      <caption webpage="trans" alt=""/>
+    </file>
+    <file name="coisa do site3-u10529.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10529-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="coisa do site3-u10530.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10530-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="coisa do site3-u10533.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10533-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="coisa do site3-u10535.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10535-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="coisa do site3-u10536.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10536-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="coisa do site3-u10539.png" crc="3758544277" ref="phone>trans"/>
+    <file name="coisa do site3-u10539-r.png" crc="329369103" ref="phone>trans"/>
+    <file name="5-u10546.png" crc="4056481242" ref="phone>trans"/>
+    <file name="5-u10546-r.png" crc="5829463" ref="phone>trans"/>
+    <file name="68197f898120b3e7cbb622b355c22e04.jpg" crc="4091668934" ref="phone>casal">
+      <caption webpage="casal" alt=""/>
+    </file>
+    <file name="coisa do site3-u10636.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10636-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="coisa do site3-u10637.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10637-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="coisa do site3-u10640.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10640-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="coisa do site3-u10642.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10642-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="coisa do site3-u10643.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10643-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="coisa do site3-u10646.png" crc="3758544277" ref="phone>casal"/>
+    <file name="coisa do site3-u10646-r.png" crc="329369103" ref="phone>casal"/>
+    <file name="5-u10653.png" crc="4056481242" ref="phone>casal"/>
+    <file name="5-u10653-r.png" crc="5829463" ref="phone>casal"/>
+    <file name="coisa do site3-u10743.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10743-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10744.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10744-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10747.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10747-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10749.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10749-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10750.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10750-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10753.png" crc="3758544277" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10753-r.png" crc="329369103" ref="phone>cascavel"/>
+    <file name="5-u10760.png" crc="4056481242" ref="phone>cascavel"/>
+    <file name="5-u10760-r.png" crc="5829463" ref="phone>cascavel"/>
+    <file name="coisa do site3-u10842.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10842-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="coisa do site3-u10843.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10843-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="coisa do site3-u10846.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10846-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="coisa do site3-u10848.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10848-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="coisa do site3-u10849.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10849-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="coisa do site3-u10852.png" crc="3758544277" ref="phone>toledo"/>
+    <file name="coisa do site3-u10852-r.png" crc="329369103" ref="phone>toledo"/>
+    <file name="5-u10859.png" crc="4056481242" ref="phone>toledo"/>
+    <file name="5-u10859-r.png" crc="5829463" ref="phone>toledo"/>
+    <file name="coisa do site3-u10941.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10941-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10942.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10942-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10945.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10945-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10947.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10947-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10948.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10948-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10951.png" crc="3758544277" ref="phone>foz-do-iguaçu"/>
+    <file name="coisa do site3-u10951-r.png" crc="329369103" ref="phone>foz-do-iguaçu"/>
+    <file name="5-u10958.png" crc="4056481242" ref="phone>foz-do-iguaçu"/>
+    <file name="5-u10958-r.png" crc="5829463" ref="phone>foz-do-iguaçu"/>
+    <file name="beto-malfacini.jpg" crc="4035643211" ref="phone>homens">
+      <caption webpage="homens" alt=""/>
+    </file>
+    <file name="coisa do site3-u10422.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10422-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="coisa do site3-u10423.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10423-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="coisa do site3-u10426.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10426-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="coisa do site3-u10428.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10428-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="coisa do site3-u10429.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10429-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="coisa do site3-u10432.png" crc="3758544277" ref="phone>homens"/>
+    <file name="coisa do site3-u10432-r.png" crc="329369103" ref="phone>homens"/>
+    <file name="5-u10439.png" crc="4056481242" ref="phone>homens"/>
+    <file name="5-u10439-r.png" crc="5829463" ref="phone>homens"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="536856828" ref="phone>homens:phone>anúncie:phone>foz-do-iguaçu:phone>toledo:phone>cascavel:phone>index:phone>casal:phone>trans:phone>caro:phone>mulher"/>
+      <file name="homens.css" crc="12152104" ref="phone>homens"/>
+      <file name="an_ncie.css" crc="509782520" ref="phone>anúncie"/>
+      <file name="foz-do-igua_u.css" crc="163823114" ref="phone>foz-do-iguaçu"/>
+      <file name="toledo.css" crc="3882568577" ref="phone>toledo"/>
+      <file name="cascavel.css" crc="72228621" ref="phone>cascavel"/>
+      <file name="index.css" crc="493255870" ref="phone>index"/>
+      <file name="casal.css" crc="322702563" ref="phone>casal"/>
+      <file name="trans.css" crc="3970532710" ref="phone>trans"/>
+      <file name="caro.css" crc="4276427139" ref="phone>caro"/>
+      <file name="mulher.css" crc="330125318" ref="phone>mulher"/>
+    </folder>
+    <file name="index.html" crc="3876300697" seo="true" mt="1516824481061" redirect="true"/>
+    <file name="homens.html" crc="532594238" seo="true" mt="1516824481086" redirect="true"/>
+    <file name="trans.html" crc="3991589840" seo="true" mt="1516824481289" redirect="true"/>
+    <file name="casal.html" crc="488654156" seo="true" mt="1516824481054" redirect="true"/>
+    <file name="cascavel.html" crc="392630254" seo="true" mt="1516824481074" redirect="true"/>
+    <file name="toledo.html" crc="131188699" seo="true" mt="1516824481079" redirect="true"/>
+    <file name="foz-do-iguaçu.html" crc="240554663" seo="true" mt="1516824481067" redirect="true"/>
+    <file name="anúncie.html" crc="357335976" seo="true" mt="1516824480744" redirect="true"/>
+    <file name="caro.html" crc="279755333" seo="true" mt="1516824481508" redirect="true"/>
+    <file name="mulher.html" crc="280712460" seo="true" mt="1516824480744" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4238382923" seo="true" mt="1516824480415" redirect="true"/>
+  <file name="homens.html" crc="4222787702" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="trans.html" crc="390635545" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="casal.html" crc="97781669" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="cascavel.html" crc="278615157" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="toledo.html" crc="3953507279" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="foz-do-iguaçu.html" crc="5462009" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="anúncie.html" crc="3881404259" seo="true" mt="1516824478574" redirect="true"/>
+  <file name="caro.html" crc="469639123" seo="true" mt="1516824478574" redirect="true"/>
+</manifest>
